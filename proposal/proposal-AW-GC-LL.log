@@ -1,0 +1,387 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2014.5.23)  14 APR 2015 23:00
+entering extended mode
+**proposal-AW-GC-LL.tex
+
+(C:\Users\User\Dropbox\School\College\Sp15\ee40\final-project\group-turret\prop
+osal-AW-GC-LL.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty"
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip44
+\enit@outerparindent=\dimen113
+\enit@toks=\toks16
+\enit@inbox=\box26
+\enitdp@description=\count91
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip45
+\f@ncyO@elh=\skip46
+\f@ncyO@erh=\skip47
+\f@ncyO@olh=\skip48
+\f@ncyO@orh=\skip49
+\f@ncyO@elf=\skip50
+\f@ncyO@erf=\skip51
+\f@ncyO@olf=\skip52
+\f@ncyO@orf=\skip53
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count92
+\mult@box=\box27
+\multicol@leftmargin=\dimen114
+\c@unbalance=\count93
+\c@collectmore=\count94
+\doublecol@number=\count95
+\multicoltolerance=\count96
+\multicolpretolerance=\count97
+\full@width=\dimen115
+\page@free=\dimen116
+\premulticols=\dimen117
+\postmulticols=\dimen118
+\multicolsep=\skip54
+\multicolbaselineskip=\skip55
+\partial@page=\box28
+\last@line=\box29
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count98
+\c@finalcolumnbadness=\count99
+\last@try=\dimen119
+\multicolovershoot=\dimen120
+\multicolundershoot=\dimen121
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\multicol@sort@counter=\count100
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\xhfill\xhfill.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count101
+\calc@Bcount=\count102
+\calc@Adimen=\dimen122
+\calc@Bdimen=\dimen123
+\calc@Askip=\skip56
+\calc@Bskip=\skip57
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count103
+\calc@Cskip=\skip58
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+Package: xhfill 2011/05/14\ v 1.01\ modify width and color of hrulefill
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\changepage\changepage.sty"
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count104
+\cp@tempcnt=\count105
+)
+(C:\Users\User\Dropbox\School\College\Sp15\ee40\final-project\group-turret\prop
+osal-AW-GC-LL.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(35.56593pt, 526.376pt, 35.56593pt)
+* v-part:(T,H,B)=(35.56593pt, 773.91498pt, 35.56593pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=526.376pt
+* \textheight=773.91498pt
+* \oddsidemargin=-36.70406pt
+* \evensidemargin=-36.70406pt
+* \topmargin=-36.70406pt
+* \headheight=0.0pt
+* \headsep=28.45274pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen124
+\scratchbox=\box53
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen125
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+
+(C:\Users\User\Dropbox\School\College\Sp15\ee40\final-project\group-turret\prop
+osal-AW-GC-LL.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 2.
+)
+\tf@toc=\write3
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<rubber-band-gun.jpg, id=10, 451.6875pt x 451.6875pt>
+File: rubber-band-gun.jpg Graphic file (type jpg)
+
+<use rubber-band-gun.jpg>
+Package pdftex.def Info: rubber-band-gun.jpg used on input line 26.
+(pdftex.def)             Requested size: 203.25749pt x 203.25749pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2 <C:/Users/User/Dropbox/School/College/Sp15/ee40/final-project/group-turret/r
+ubber-band-gun.jpg>]
+<potentiometer-control.png, id=14, 109.3686pt x 165.2574pt>
+File: potentiometer-control.png Graphic file (type png)
+
+<use potentiometer-control.png>
+Package pdftex.def Info: potentiometer-control.png used on input line 37.
+(pdftex.def)             Requested size: 109.36832pt x 165.25697pt.
+
+<button-control.png, id=15, 71.7882pt x 105.5142pt>
+File: button-control.png Graphic file (type png)
+ <use button-control.png>
+Package pdftex.def Info: button-control.png used on input line 43.
+(pdftex.def)             Requested size: 71.788pt x 105.51395pt.
+
+<potentiometer-sensor.png, id=16, 117.0774pt x 165.2574pt>
+File: potentiometer-sensor.png Graphic file (type png)
+
+<use potentiometer-sensor.png>
+Package pdftex.def Info: potentiometer-sensor.png used on input line 49.
+(pdftex.def)             Requested size: 117.0771pt x 165.25697pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3 <C:/Users/User/Dropbox/School/College/Sp15/ee40/final-project/group-turret/p
+otentiometer-control.png> <C:/Users/User/Dropbox/School/College/Sp15/ee40/final
+-project/group-turret/button-control.png> <C:/Users/User/Dropbox/School/College
+/Sp15/ee40/final-project/group-turret/potentiometer-sensor.png>]
+<table-motor.png, id=20, 139.2402pt x 165.2574pt>
+File: table-motor.png Graphic file (type png)
+ <use table-motor.png>
+Package pdftex.def Info: table-motor.png used on input line 56.
+(pdftex.def)             Requested size: 139.23985pt x 165.25697pt.
+
+<firing-motor.png, id=21, 139.2402pt x 165.2574pt>
+File: firing-motor.png Graphic file (type png)
+ <use firing-motor.png>
+Package pdftex.def Info: firing-motor.png used on input line 62.
+(pdftex.def)             Requested size: 139.23985pt x 165.25697pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4 <C:/Users/User/Dropbox/School/College/Sp15/ee40/final-project/group-turret/t
+able-motor.png> <C:/Users/User/Dropbox/School/College/Sp15/ee40/final-project/g
+roup-turret/firing-motor.png>]
+<group-turret-flowchart.jpg, id=25, 707.64375pt x 208.78pt>
+File: group-turret-flowchart.jpg Graphic file (type jpg)
+
+<use group-turret-flowchart.jpg>
+Package pdftex.def Info: group-turret-flowchart.jpg used on input line 69.
+(pdftex.def)             Requested size: 505.89pt x 149.25743pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5 <C:/Users/User/Dropbox/School/College/Sp15/ee40/final-project/group-turret/g
+roup-turret-flowchart.jpg>]
+(C:\Users\User\Dropbox\School\College\Sp15\ee40\final-project\group-turret\prop
+osal-AW-GC-LL.aux) ) 
+Here is how much of TeX's memory you used:
+ 2811 strings out of 493921
+ 39162 string characters out of 3147285
+ 104676 words of memory out of 3000000
+ 6082 multiletter control sequences out of 15000+200000
+ 8811 words of font info for 31 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 30i,11n,43p,342b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on proposal-AW-GC-LL.pdf (5 pages, 142657 bytes).
+PDF statistics:
+ 45 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
