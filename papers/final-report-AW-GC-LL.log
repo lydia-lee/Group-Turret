@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.1)  2 MAY 2015 00:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.1)  2 MAY 2015 00:57
 entering extended mode
-**proposal-AW-GC-LL.tex
-(proposal-AW-GC-LL.tex
+**final-report-AW-GC-LL.tex
+(final-report-AW-GC-LL.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 69 languages loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -194,7 +194,7 @@ Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count104
 \cp@tempcnt=\count105
 )
-(proposal-AW-GC-LL.aux)
+(final-report-AW-GC-LL.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
@@ -216,15 +216,15 @@ LaTeX Font Info:    ... okay on input line 14.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(35.56593pt, 526.376pt, 35.56593pt)
-* v-part:(T,H,B)=(35.56593pt, 773.91498pt, 35.56593pt)
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=526.376pt
-* \textheight=773.91498pt
-* \oddsidemargin=-36.70406pt
-* \evensidemargin=-36.70406pt
-* \topmargin=-36.70406pt
+* \textwidth=540.60239pt
+* \textheight=788.14136pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-43.81725pt
 * \headheight=0.0pt
 * \headsep=28.45274pt
 * \topskip=11.0pt
@@ -262,21 +262,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 19.
- (proposal-AW-GC-LL.toc
+ (final-report-AW-GC-LL.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 )
 \tf@toc=\write3
  [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] <proposal-images/rubber-b
-and-gun.jpg, id=10, 451.6875pt x 451.6875pt>
-File: proposal-images/rubber-band-gun.jpg Graphic file (type jpg)
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
-<use proposal-images/rubber-band-gun.jpg>
-Package pdftex.def Info: proposal-images/rubber-band-gun.jpg used on input line
- 26.
-(pdftex.def)             Requested size: 203.25749pt x 203.25749pt.
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+<report-images/bidirectional-motor-driver.pdf, id=13, 614.295pt x 794.97pt>
+File: report-images/bidirectional-motor-driver.pdf Graphic file (type pdf)
+
+<use report-images/bidirectional-motor-driver.pdf>
+Package pdftex.def Info: report-images/bidirectional-motor-driver.pdf used on i
+nput line 34.
+(pdftex.def)             Requested size: 491.43666pt x 635.97687pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -284,54 +291,29 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2 <./proposal-images/rubber-band-gun.jpg>]
-<proposal-images/potentiometer-control.png, id=14, 109.3686pt x 165.2574pt>
-File: proposal-images/potentiometer-control.png Graphic file (type png)
+[3 <./report-images/bidirectional-motor-driver.pdf>]
+<report-images/potentiometers.pdf, id=26, 614.295pt x 794.97pt>
+File: report-images/potentiometers.pdf Graphic file (type pdf)
 
-<use proposal-images/potentiometer-control.png>
-Package pdftex.def Info: proposal-images/potentiometer-control.png used on inpu
-t line 37.
-(pdftex.def)             Requested size: 109.36832pt x 165.25697pt.
-
-<proposal-images/button-control.png, id=15, 71.7882pt x 105.5142pt>
-File: proposal-images/button-control.png Graphic file (type png)
-
-<use proposal-images/button-control.png>
-Package pdftex.def Info: proposal-images/button-control.png used on input line 
-43.
-(pdftex.def)             Requested size: 71.788pt x 105.51395pt.
-
-<proposal-images/potentiometer-sensor.png, id=16, 117.0774pt x 165.2574pt>
-File: proposal-images/potentiometer-sensor.png Graphic file (type png)
-
-<use proposal-images/potentiometer-sensor.png>
-Package pdftex.def Info: proposal-images/potentiometer-sensor.png used on input
- line 49.
-(pdftex.def)             Requested size: 117.0771pt x 165.25697pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[3 <./proposal-images/potentiometer-control.png> <./proposal-images/button-cont
-rol.png> <./proposal-images/potentiometer-sensor.png>]
-<proposal-images/table-motor.png, id=20, 139.2402pt x 165.2574pt>
-File: proposal-images/table-motor.png Graphic file (type png)
-
-<use proposal-images/table-motor.png>
-Package pdftex.def Info: proposal-images/table-motor.png used on input line 56.
-
-(pdftex.def)             Requested size: 139.23985pt x 165.25697pt.
-
-<proposal-images/firing-motor.png, id=21, 139.2402pt x 165.2574pt>
-File: proposal-images/firing-motor.png Graphic file (type png)
-
-<use proposal-images/firing-motor.png>
-Package pdftex.def Info: proposal-images/firing-motor.png used on input line 62
+<use report-images/potentiometers.pdf>
+Package pdftex.def Info: report-images/potentiometers.pdf used on input line 44
 .
-(pdftex.def)             Requested size: 139.23985pt x 165.25697pt.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+Overfull \hbox (73.6911pt too wide) in paragraph at lines 44--46
+ [][] 
+ []
+
+<report-images/firing-motor.pdf, id=27, 614.295pt x 794.97pt>
+File: report-images/firing-motor.pdf Graphic file (type pdf)
+
+<use report-images/firing-motor.pdf>
+Package pdftex.def Info: report-images/firing-motor.pdf used on input line 53.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+Overfull \hbox (73.6911pt too wide) in paragraph at lines 53--55
+ [][] 
+ []
 
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
@@ -339,39 +321,38 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[4 <./proposal-images/table-motor.png> <./proposal-images/firing-motor.png>]
-<proposal-images/group-turret-flowchart.jpg, id=25, 707.64375pt x 208.78pt>
-File: proposal-images/group-turret-flowchart.jpg Graphic file (type jpg)
-
-<use proposal-images/group-turret-flowchart.jpg>
-Package pdftex.def Info: proposal-images/group-turret-flowchart.jpg used on inp
-ut line 69.
-(pdftex.def)             Requested size: 505.89pt x 149.25743pt.
-
+[4 <./report-images/potentiometers.pdf> <./report-images/firing-motor.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5 <./proposal-images/group-turret-flowchart.jpg>] (proposal-AW-GC-LL.aux) ) 
+[5]
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6] (final-report-AW-GC-LL.aux) ) 
 Here is how much of TeX's memory you used:
- 2832 strings out of 493671
- 39308 string characters out of 3143866
- 109487 words of memory out of 3000000
- 6156 multiletter control sequences out of 15000+200000
+ 2811 strings out of 493671
+ 38599 string characters out of 3143866
+ 108484 words of memory out of 3000000
+ 6140 multiletter control sequences out of 15000+200000
  8811 words of font info for 31 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 30i,11n,43p,342b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:
-/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb>
-Output written on proposal-AW-GC-LL.pdf (5 pages, 142628 bytes).
+ 30i,11n,43p,370b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on final-report-AW-GC-LL.pdf (6 pages, 117299 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
