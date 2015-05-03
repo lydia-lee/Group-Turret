@@ -1,6 +1,6 @@
 //pins
-int motor1a = P1_0;
-int motor1b = P1_1;
+int motor1a = P2_0;
+int motor1b = P2_1;
 int potJoy = P1_4;
 int potSensor = P1_5;
 
