@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.1)  3 MAY 2015 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.1)  3 MAY 2015 17:24
 entering extended mode
 **final-report-AW-GC-LL.tex
 (final-report-AW-GC-LL.tex
@@ -194,19 +194,50 @@ Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count104
 \cp@tempcnt=\count105
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count106
+\lst@gtempboxa=\box53
+\lst@token=\toks17
+\lst@length=\count107
+\lst@currlwidth=\dimen125
+\lst@column=\count108
+\lst@pos=\count109
+\lst@lostspace=\dimen126
+\lst@width=\dimen127
+\lst@newlines=\count110
+\lst@lineno=\count111
+\lst@maxwidth=\dimen128
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+\c@lstnumber=\count112
+\lst@skipnumbers=\count113
+\lst@framebox=\box54
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/09/06 1.5e listings configuration
+))
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/09/06 1.5e listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+)
 (final-report-AW-GC-LL.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -244,24 +275,25 @@ LaTeX Font Info:    ... okay on input line 14.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen125
-\scratchbox=\box53
-\nofMPsegments=\count107
-\nofMParguments=\count108
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen126
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count114
+\scratchdimen=\dimen129
+\scratchbox=\box55
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen130
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks19
 )
+\c@lstlisting=\count120
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 19.
+(Font)              <12> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 19.
+(Font)              <8> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 19.
+(Font)              <6> on input line 43.
  (final-report-AW-GC-LL.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
@@ -276,13 +308,31 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2]
-<report-images/bidirectional-motor-driver.pdf, id=13, 614.295pt x 794.97pt>
+[2] <report-images/high-level-diagram.pdf, id=13, 614.295pt x 794.97pt>
+File: report-images/high-level-diagram.pdf Graphic file (type pdf)
+
+<use report-images/high-level-diagram.pdf>
+Package pdftex.def Info: report-images/high-level-diagram.pdf used on input lin
+e 58.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+Overfull \hbox (73.6911pt too wide) in paragraph at lines 58--60
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3 <./report-images/high-level-diagram.pdf>]
+<report-images/bidirectional-motor-driver.pdf, id=26, 614.295pt x 794.97pt>
 File: report-images/bidirectional-motor-driver.pdf Graphic file (type pdf)
 
 <use report-images/bidirectional-motor-driver.pdf>
 Package pdftex.def Info: report-images/bidirectional-motor-driver.pdf used on i
-nput line 34.
+nput line 68.
 (pdftex.def)             Requested size: 491.43666pt x 635.97687pt.
 
 
@@ -291,46 +341,28 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[3 <./report-images/bidirectional-motor-driver.pdf>]
-<report-images/potentiometers.pdf, id=26, 614.295pt x 794.97pt>
+[4 <./report-images/bidirectional-motor-driver.pdf>]
+<report-images/potentiometers.pdf, id=39, 614.295pt x 794.97pt>
 File: report-images/potentiometers.pdf Graphic file (type pdf)
 
 <use report-images/potentiometers.pdf>
-Package pdftex.def Info: report-images/potentiometers.pdf used on input line 44
+Package pdftex.def Info: report-images/potentiometers.pdf used on input line 78
 .
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-Overfull \hbox (73.6911pt too wide) in paragraph at lines 44--46
+Overfull \hbox (73.6911pt too wide) in paragraph at lines 78--80
  [][] 
  []
 
-<report-images/firing-motor.pdf, id=27, 614.295pt x 794.97pt>
-File: report-images/firing-motor.pdf Graphic file (type pdf)
-
-<use report-images/firing-motor.pdf>
-Package pdftex.def Info: report-images/firing-motor.pdf used on input line 53.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-
-Overfull \hbox (73.6911pt too wide) in paragraph at lines 53--55
- [][] 
- []
-
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[4 <./report-images/potentiometers.pdf> <./report-images/firing-motor.pdf>]
-<report-images/firing-button.pdf, id=50, 614.295pt x 794.97pt>
+<report-images/firing-button.pdf, id=40, 614.295pt x 794.97pt>
 File: report-images/firing-button.pdf Graphic file (type pdf)
 
 <use report-images/firing-button.pdf>
-Package pdftex.def Info: report-images/firing-button.pdf used on input line 62.
+Package pdftex.def Info: report-images/firing-button.pdf used on input line 87.
 
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-Overfull \hbox (73.6911pt too wide) in paragraph at lines 62--64
+Overfull \hbox (73.6911pt too wide) in paragraph at lines 87--89
  [][] 
  []
 
@@ -340,7 +372,7 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5 <./report-images/firing-button.pdf>]
+[5 <./report-images/potentiometers.pdf> <./report-images/firing-button.pdf>]
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
  Make it at least 13.59999pt.
@@ -349,20 +381,20 @@ Package Fancyhdr Warning: \headheight is too small (0.0pt):
 
 [6] (final-report-AW-GC-LL.aux) ) 
 Here is how much of TeX's memory you used:
- 2816 strings out of 493671
- 38759 string characters out of 3143866
- 108490 words of memory out of 3000000
- 6144 multiletter control sequences out of 15000+200000
- 8811 words of font info for 31 fonts, out of 3000000 for 9000
+ 4168 strings out of 493671
+ 58505 string characters out of 3143866
+ 196434 words of memory out of 3000000
+ 7477 multiletter control sequences out of 15000+200000
+ 8979 words of font info for 32 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 30i,11n,43p,370b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,11n,49p,402b,1023s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 c/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on final-report-AW-GC-LL.pdf (6 pages, 126953 bytes).
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on final-report-AW-GC-LL.pdf (6 pages, 152732 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

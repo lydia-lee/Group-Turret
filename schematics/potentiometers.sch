@@ -3666,12 +3666,12 @@ Source: http://www.alphapotentiometers.net/html/16mm_pot_2.html</description>
 <part name="R7" library="rcl" deviceset="R-US_" device="0204/2V" value="1kΩ"/>
 <part name="GND3" library="supply1" deviceset="GND" device="" value="VCC"/>
 <part name="SUPPLY9" library="supply2" deviceset="GND" device=""/>
-<part name="POT1" library="pot" deviceset="3RP/1610N" device=""/>
-<part name="SUPPLY10" library="supply2" deviceset="VCC" device="" value="1.3"/>
+<part name="JOYSTICK-POT" library="pot" deviceset="3RP/1610N" device=""/>
+<part name="SUPPLY10" library="supply2" deviceset="VCC" device="" value="1.5"/>
 <part name="R8" library="rcl" deviceset="R-US_" device="0204/2V" value="1kΩ"/>
 <part name="GND4" library="supply1" deviceset="GND" device="" value="VCC"/>
 <part name="SUPPLY11" library="supply2" deviceset="GND" device=""/>
-<part name="POT2" library="pot" deviceset="3RP/1610N" device=""/>
+<part name="TABLE-POT" library="pot" deviceset="3RP/1610N" device=""/>
 <part name="SUPPLY12" library="supply2" deviceset="VCC" device="" value="1.4"/>
 </parts>
 <sheets>
@@ -3682,12 +3682,12 @@ Source: http://www.alphapotentiometers.net/html/16mm_pot_2.html</description>
 <instance part="R7" gate="G$1" x="58.42" y="58.42" rot="R90"/>
 <instance part="GND3" gate="1" x="58.42" y="76.2" rot="R180"/>
 <instance part="SUPPLY9" gate="GND" x="58.42" y="25.4"/>
-<instance part="POT1" gate="G$1" x="58.42" y="40.64" rot="R180"/>
+<instance part="JOYSTICK-POT" gate="G$1" x="58.42" y="40.64" rot="R180"/>
 <instance part="SUPPLY10" gate="G$1" x="68.58" y="50.8" rot="R270"/>
 <instance part="R8" gate="G$1" x="40.64" y="58.42" rot="R90"/>
 <instance part="GND4" gate="1" x="40.64" y="76.2" rot="R180"/>
 <instance part="SUPPLY11" gate="GND" x="40.64" y="25.4"/>
-<instance part="POT2" gate="G$1" x="40.64" y="40.64" rot="R180"/>
+<instance part="TABLE-POT" gate="G$1" x="40.64" y="40.64" rot="R180"/>
 <instance part="SUPPLY12" gate="G$1" x="30.48" y="50.8" rot="R90"/>
 </instances>
 <busses>
@@ -3695,7 +3695,7 @@ Source: http://www.alphapotentiometers.net/html/16mm_pot_2.html</description>
 <nets>
 <net name="GND" class="0">
 <segment>
-<pinref part="POT1" gate="G$1" pin="E"/>
+<pinref part="JOYSTICK-POT" gate="G$1" pin="E"/>
 <pinref part="SUPPLY9" gate="GND" pin="GND"/>
 <wire x1="58.42" y1="35.56" x2="58.42" y2="27.94" width="0.1524" layer="91"/>
 </segment>
@@ -3705,7 +3705,7 @@ Source: http://www.alphapotentiometers.net/html/16mm_pot_2.html</description>
 <wire x1="58.42" y1="73.66" x2="58.42" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="POT2" gate="G$1" pin="E"/>
+<pinref part="TABLE-POT" gate="G$1" pin="E"/>
 <pinref part="SUPPLY11" gate="GND" pin="GND"/>
 <wire x1="40.64" y1="35.56" x2="40.64" y2="27.94" width="0.1524" layer="91"/>
 </segment>
@@ -3727,7 +3727,7 @@ Source: http://www.alphapotentiometers.net/html/16mm_pot_2.html</description>
 </net>
 <net name="N$17" class="0">
 <segment>
-<pinref part="POT2" gate="G$1" pin="A"/>
+<pinref part="TABLE-POT" gate="G$1" pin="A"/>
 <pinref part="R8" gate="G$1" pin="1"/>
 <wire x1="40.64" y1="53.34" x2="40.64" y2="45.72" width="0.1524" layer="91"/>
 </segment>
@@ -3735,7 +3735,7 @@ Source: http://www.alphapotentiometers.net/html/16mm_pot_2.html</description>
 <net name="N$18" class="0">
 <segment>
 <pinref part="R7" gate="G$1" pin="1"/>
-<pinref part="POT1" gate="G$1" pin="A"/>
+<pinref part="JOYSTICK-POT" gate="G$1" pin="A"/>
 <wire x1="58.42" y1="53.34" x2="58.42" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 </net>
